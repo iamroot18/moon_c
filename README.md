@@ -124,4 +124,7 @@ http://jake.dothome.co.kr
   - hello 모듈 샘플
 
 * test/provider 디렉토리
-  - barrier test for user application
+  - 베리어 테스트(유저 application)
+
+* test/t-avl-tree 디렉토리
+  - threaded avl tree 테스트(유저 application)
